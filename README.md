@@ -1,6 +1,9 @@
 # ictv
 A versioned copy of Main Species List (MSL) by International Committee on Taxonomy of Viruses (ICTV) in various formats.
 
+[![SWH](https://archive.softwareheritage.org/badge/swh:1:dir:08e56fb3138f12e08ed4e2a9f09d96d024b4cb3d/)](https://archive.softwareheritage.org/swh:1:dir:08e56fb3138f12e08ed4e2a9f09d96d024b4cb3d;origin=https://github.com/jhpoelen/ictv;visit=swh:1:snp:dfb638c3b2c9824c63f93d66ea7f1bf9637ac302;anchor=swh:1:rev:fad3cfed314567bbdb0f294a0ea47d50fbfac937)
+
+
 At time of writing (2023-04-27), https://ictv.global/msl contains XLSX versions of the MSL published by ICTV. 
 
 This repository derives [ictv.tsv](./ictv.tsv) [ictv.csv](./ictv.csv) [ictv.json](./ictv.json) from "current" versions as published via https://ictv.global/msl/current using [Preston](https://github.com/bio-guoda/preston), a biodiversity data tracker. 
